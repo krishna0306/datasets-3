@@ -1,0 +1,101 @@
+Gender,Age,Weight,Height,BMI,Blood Pressure Level,Physical Activity Level
+Male,35,115,169,40.26469661426421,Elevated,Moderate
+Female,43,103,173,34.414781649904775,Elevated,Moderate
+Male,61,72,182,21.736505252988767,Normal,Sedentary
+Male,51,110,173,36.753650305723546,Hypertension Stage 2,Active
+Male,27,86,160,33.59374999999999,Normal,Sedentary
+Female,53,89,198,22.70176512600755,Normal,Sedentary
+Male,31,106,157,43.00377297253438,Hypertension Stage 1,Light
+Male,48,101,185,29.510591672753833,Elevated,Light
+Male,65,50,187,14.298378563870855,Hypertension Stage 2,Sedentary
+Female,32,72,189,20.15621063240111,Hypertension Stage 1,Moderate
+Male,25,72,169,25.209201358495854,Normal,Light
+Male,31,88,184,25.99243856332703,Elevated,Active
+Male,40,74,197,19.067742018603933,Hypertension Stage 1,Light
+Male,57,106,174,35.01123001717532,Elevated,Light
+Female,38,119,184,35.14886578449905,Hypertension Stage 1,Active
+Male,33,106,174,35.01123001717532,Elevated,Sedentary
+Female,62,45,178,14.202752177755334,Normal,Active
+Female,35,71,167,25.458065904119906,Hypertension Stage 2,Sedentary
+Female,64,106,195,27.87639710716634,Normal,Sedentary
+Male,41,47,167,16.85252249991036,Hypertension Stage 2,Sedentary
+Female,43,114,151,49.997807113723084,Elevated,Active
+Male,42,116,184,34.262759924385634,Hypertension Stage 1,Sedentary
+Female,62,71,165,26.07897153351699,Normal,Moderate
+Female,58,53,190,14.681440443213297,Hypertension Stage 2,Active
+Female,46,106,185,30.97151205259313,Normal,Moderate
+Female,32,81,182,24.453568409612362,Hypertension Stage 2,Sedentary
+Female,62,95,153,40.582681874492714,Normal,Light
+Female,18,88,182,26.56683975365294,Hypertension Stage 2,Sedentary
+Female,42,68,163,25.59373706198954,Hypertension Stage 2,Moderate
+Female,24,103,170,35.6401384083045,Elevated,Moderate
+Male,26,76,197,19.58308639748512,Hypertension Stage 2,Active
+Male,41,96,169,33.61226847799447,Elevated,Light
+Female,18,106,157,43.00377297253438,Hypertension Stage 2,Active
+Female,61,102,156,41.913214990138066,Hypertension Stage 1,Moderate
+Female,25,96,152,41.551246537396125,Hypertension Stage 1,Sedentary
+Male,41,56,166,20.322252866889244,Hypertension Stage 1,Light
+Female,28,83,182,25.057360222195385,Hypertension Stage 2,Sedentary
+Male,68,46,197,11.85292071426731,Elevated,Sedentary
+Male,34,47,161,18.132016511708652,Elevated,Light
+Male,25,100,171,34.19855682090216,Hypertension Stage 2,Active
+Male,52,103,171,35.224513525529225,Hypertension Stage 1,Sedentary
+Male,52,46,195,12.097304404996713,Hypertension Stage 1,Moderate
+Female,50,46,179,14.356605599076184,Elevated,Sedentary
+Female,22,98,187,28.024821985186875,Hypertension Stage 1,Light
+Female,59,45,187,12.868540707483769,Normal,Light
+Female,56,63,194,16.73929216707408,Elevated,Light
+Female,58,46,157,18.662014686194166,Hypertension Stage 1,Active
+Male,45,97,176,31.31456611570248,Elevated,Sedentary
+Female,24,88,176,28.40909090909091,Normal,Active
+Female,26,76,183,22.694018931589476,Elevated,Active
+Male,25,114,170,39.446366782006926,Elevated,Light
+Female,29,76,179,23.719609250647608,Elevated,Light
+Male,51,112,182,33.8123415046492,Elevated,Active
+Female,50,99,177,31.600114909508758,Normal,Sedentary
+Male,65,119,196,30.976676384839653,Hypertension Stage 2,Moderate
+Female,40,100,182,30.189590629151066,Elevated,Active
+Female,41,61,154,25.72103221453871,Elevated,Sedentary
+Male,54,82,197,21.12911953412868,Hypertension Stage 1,Light
+Male,52,68,168,24.092970521541954,Elevated,Light
+Male,61,113,153,48.2720321243966,Hypertension Stage 1,Sedentary
+Male,57,114,184,33.672022684310015,Hypertension Stage 2,Moderate
+Male,39,55,198,14.029180695847362,Normal,Light
+Male,44,60,166,21.773842357381334,Normal,Light
+Male,52,117,193,31.410239201052377,Hypertension Stage 2,Light
+Male,18,103,177,32.87688722908487,Normal,Sedentary
+Female,52,114,179,35.57941387597141,Hypertension Stage 2,Active
+Female,54,47,178,14.833985607877793,Hypertension Stage 2,Light
+Male,64,64,195,16.8310322156476,Hypertension Stage 2,Active
+Female,31,103,155,42.872008324661806,Normal,Moderate
+Female,20,80,184,23.629489603024574,Hypertension Stage 1,Light
+Female,18,63,190,17.451523545706372,Hypertension Stage 2,Light
+Female,22,111,186,32.08463406174124,Elevated,Moderate
+Male,43,63,173,21.04981790236894,Normal,Light
+Female,31,64,178,20.199469763918696,Hypertension Stage 2,Active
+Male,56,115,198,29.33374145495358,Hypertension Stage 2,Sedentary
+Female,44,96,195,25.2465483234714,Elevated,Active
+Female,26,77,180,23.76543209876543,Hypertension Stage 1,Sedentary
+Female,32,84,184,24.8109640831758,Hypertension Stage 1,Sedentary
+Male,32,83,182,25.057360222195385,Hypertension Stage 1,Active
+Female,43,45,170,15.570934256055365,Hypertension Stage 2,Active
+Male,59,55,181,16.788254326791,Hypertension Stage 2,Active
+Female,30,101,172,34.140075716603576,Hypertension Stage 2,Active
+Male,68,94,182,28.378215191402003,Normal,Moderate
+Female,49,67,152,28.999307479224377,Elevated,Light
+Male,56,75,167,26.89232313815483,Hypertension Stage 2,Sedentary
+Male,66,86,174,28.405337561104506,Elevated,Active
+Female,69,51,191,13.979879937501714,Elevated,Active
+Male,49,60,180,18.51851851851852,Hypertension Stage 1,Active
+Female,21,104,152,45.013850415512465,Normal,Moderate
+Female,47,46,189,12.877579015145153,Hypertension Stage 2,Active
+Female,54,45,195,11.834319526627219,Hypertension Stage 1,Active
+Female,40,92,173,30.73941661933242,Hypertension Stage 1,Active
+Female,56,56,199,14.141057044014039,Hypertension Stage 2,Light
+Female,62,113,181,34.49223161686151,Elevated,Moderate
+Female,32,81,196,21.084964598084134,Hypertension Stage 1,Active
+Female,60,76,171,25.990903183885642,Elevated,Sedentary
+Female,46,53,172,17.915089237425637,Normal,Sedentary
+Female,53,63,151,27.630367089162757,Elevated,Sedentary
+Female,30,92,176,29.700413223140497,Normal,Moderate
+Male,49,47,191,12.883418765932952,Elevated,Moderate

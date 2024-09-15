@@ -1,0 +1,52 @@
+Gender,Age,Weight,Height,BMI,Cholesterol Level,Physical Activity Level,Strict Diet
+Male,61,75,175,24.489795918367346,High,Active,Yes
+Female,20,74,163,27.85200797922391,Normal,Active,No
+Male,54,94,188,26.595744680851066,Borderline High,Sedentary,No
+Male,24,90,176,29.054752066115704,Normal,Sedentary,No
+Male,38,78,158,31.244992789617044,Normal,Active,Yes
+Female,26,64,164,23.795359904818564,High,Moderate,Yes
+Male,56,94,164,34.94943486020227,Borderline High,Light,No
+Male,35,50,175,16.3265306122449,High,Active,Yes
+Male,21,74,191,20.284531674022094,High,Sedentary,Yes
+Female,42,56,162,21.338210638622158,Borderline High,Moderate,Yes
+Male,31,58,181,17.70397729007051,Normal,Active,Yes
+Male,26,73,188,20.654142145767317,Normal,Active,Yes
+Male,43,50,198,12.753800632588511,Borderline High,Moderate,Yes
+Male,19,93,181,28.387411861664784,Normal,Active,No
+Female,37,57,153,24.34960912469563,Borderline High,Moderate,No
+Male,45,73,179,22.783308885490467,Borderline High,Light,Yes
+Female,64,60,186,17.343045438779047,High,Moderate,No
+Female,24,66,172,22.30935640886966,Borderline High,Moderate,No
+Female,61,57,188,16.127206880941603,High,Moderate,No
+Male,25,84,194,22.31905622276544,Normal,Active,No
+Female,64,84,164,31.231409875074366,Normal,Active,Yes
+Male,52,82,192,22.24392361111111,Normal,Moderate,No
+Female,31,54,178,17.043302613306402,Normal,Active,No
+Female,34,91,185,26.588750913075234,High,Sedentary,Yes
+Female,53,88,162,33.53147386069196,Normal,Sedentary,Yes
+Female,57,90,181,27.471688898385274,Borderline High,Active,No
+Female,21,77,156,31.640368178829714,Borderline High,Active,No
+Female,19,56,171,19.15119181970521,Borderline High,Moderate,No
+Female,23,58,177,18.513198633853616,High,Light,No
+Female,59,57,151,24.998903556861542,Normal,Active,No
+Male,21,61,191,16.721032866423617,Normal,Sedentary,No
+Male,46,83,194,22.053353172494422,Normal,Moderate,Yes
+Female,35,82,155,34.131113423517164,High,Active,No
+Female,43,97,177,30.961728749720702,Borderline High,Sedentary,No
+Female,61,72,177,22.981901752370007,Borderline High,Sedentary,Yes
+Male,51,73,193,19.597841552793366,Normal,Light,Yes
+Female,27,86,193,23.087868130688072,Borderline High,Moderate,Yes
+Male,53,84,169,29.410734918245165,Borderline High,Moderate,Yes
+Male,31,93,179,29.025311319871417,High,Light,No
+Male,48,89,160,34.76562499999999,High,Light,No
+Male,32,71,177,22.66270867247598,High,Moderate,No
+Male,25,76,174,25.102391333069097,High,Moderate,No
+Female,31,84,188,23.766410140334994,Normal,Active,No
+Female,40,50,182,15.094795314575533,High,Active,No
+Female,57,84,150,37.333333333333336,Borderline High,Light,Yes
+Female,38,86,176,27.763429752066116,Normal,Active,No
+Female,33,96,162,36.579789666209415,Borderline High,Sedentary,Yes
+Male,62,63,190,17.451523545706372,Borderline High,Active,Yes
+Female,35,52,152,22.506925207756233,Borderline High,Active,No
+Female,64,50,188,14.146672702580354,High,Sedentary,Yes
+Male,41,54,155,22.476586888657646,High,Light,No
